@@ -1,7 +1,9 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate Hardware Engineer from India</h3>
+
+<image align="right" alt = "coding" width= "400" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitthakur7168&label=Profile%20views&color=0e75b6&style=flat" alt="harshitthakur7168" /> </p>
 
