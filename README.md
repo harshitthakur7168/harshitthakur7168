@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A Passionate Electronics Engineer from India</h3>
 
-<image align="right" alt = "coding" width= "250" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
+<image align="conter" alt = "coding" width= "250" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
   
 
   <h2 align= "conter"> Professional Goal </h2>
